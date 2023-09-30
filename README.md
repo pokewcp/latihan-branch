@@ -1,1 +1,1 @@
-# Ini adalah repsitory membuat brnach baru di github.
+# Ini adalah repsitory untuk latihan membuat branch baru di github.
